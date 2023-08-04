@@ -1,2 +1,2 @@
 # git_test
-first git repo
+my first repo konoyaro bakayaro!!
